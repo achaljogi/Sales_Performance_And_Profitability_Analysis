@@ -8,7 +8,7 @@ This project analyzes retail sales data to understand sales trends, profitabilit
 - Pandas
 - NumPy
 - Matplotlib
-- Jupyter Notebook
+- visual studio code
 
 ## Objectives
 - Analyze sales and profit trends
