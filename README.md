@@ -21,7 +21,10 @@ data/        -> dataset reference
 notebooks/   -> analysis notebooks
 
 ## Status
-Data loading completed. Analysis in progress.
+- Data loaded successfully
+- Initial data inspection completed
+- 
+
 
 
 
