@@ -16,4 +16,15 @@ This project analyzes retail sales data to understand sales trends, profitabilit
 - Detect loss-making segments
 - Generate business insights
 
+## Project Structure
+data/        -> dataset reference
+notebooks/   -> analysis notebooks
+
+## Status
+Data loading completed. Analysis in progress.
+
+
+
+
+
 
