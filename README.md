@@ -23,6 +23,15 @@ notebooks/   -> analysis notebooks
 ## Status
 - Data loaded successfully
 - Initial data inspection completed
+- Added project overview, workflow, and datetime feature engineering details
+
+## Project Status
+ **In Progress**  
+Further analysis and visualizations will be added.
+
+## Author
+**Achal Jogi**  
+M.Sc. Bioinformatics | Aspiring Data Analyst 
   
 
 
