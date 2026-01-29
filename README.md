@@ -24,6 +24,7 @@ notebooks/   -> analysis notebooks
 - Data loaded successfully
 - Initial data inspection completed
 - Added project overview, workflow, and datetime feature engineering details
+- Feature engineering: extracted year and month features from order_date
 
 ## Project Status
  **In Progress**  
