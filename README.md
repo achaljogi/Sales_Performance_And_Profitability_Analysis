@@ -25,10 +25,7 @@ notebooks/   -> analysis notebooks
 - Initial data inspection completed
 - Added project overview, workflow, and datetime feature engineering details
 - Feature engineering: extracted year and month features from order_date
-
-## Project Status
- **In Progress**  
-Further analysis and visualizations will be added.
+- Added key business KPIs: sales, profit, orders, and customers
 
 ## Author
 **Achal Jogi**  
