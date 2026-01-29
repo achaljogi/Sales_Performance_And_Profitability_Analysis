@@ -20,6 +20,11 @@ This project analyzes retail sales data to understand sales trends, profitabilit
 data/        -> dataset reference
 notebooks/   -> analysis notebooks
 
+### Profitability Analysis
+- Analyzed profit distribution across categories and sub-categories
+- Identified loss-making products and regions
+- Highlighted mismatch between high sales and low profitability
+
 ## Status
 - Data loaded successfully
 - Initial data inspection completed
