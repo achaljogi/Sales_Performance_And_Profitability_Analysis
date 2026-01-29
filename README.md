@@ -26,6 +26,7 @@ notebooks/   -> analysis notebooks
 - Added project overview, workflow, and datetime feature engineering details
 - Feature engineering: extracted year and month features from order_date
 - Added key business KPIs: sales, profit, orders, and customers
+- Added monthly sales trend visualization
 
 ## Author
 **Achal Jogi**  
