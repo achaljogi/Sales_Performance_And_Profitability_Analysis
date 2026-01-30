@@ -25,6 +25,11 @@ notebooks/   -> analysis notebooks
 - Identified loss-making products and regions
 - Highlighted mismatch between high sales and low profitability
 
+### Discount Impact Analysis
+- Analyzed profit sensitivity to discount levels
+- Identified over-discounted and loss-making sub-categories
+- Provided data-driven recommendations for pricing strategy
+
 ## Status
 - Data loaded successfully
 - Initial data inspection completed
