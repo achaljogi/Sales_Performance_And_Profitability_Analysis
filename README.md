@@ -35,6 +35,11 @@ notebooks/   -> analysis notebooks
 - Applied resampling techniques to identify seasonality and growth patterns
 - Prepared visual insights for business decision-making
 
+## Category Performance Analysis
+- Evaluated sales and profit across product categories and sub-categories
+- Identified high-revenue and low-profit segments
+- Highlighted areas for potential cost optimization
+
 ## Status
 - Data loaded successfully
 - Initial data inspection completed
