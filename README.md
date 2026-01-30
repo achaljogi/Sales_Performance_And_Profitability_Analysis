@@ -30,6 +30,11 @@ notebooks/   -> analysis notebooks
 - Identified over-discounted and loss-making sub-categories
 - Provided data-driven recommendations for pricing strategy
 
+## Time Series Analysis
+- Analyzed monthly sales and profit trends using order date
+- Applied resampling techniques to identify seasonality and growth patterns
+- Prepared visual insights for business decision-making
+
 ## Status
 - Data loaded successfully
 - Initial data inspection completed
