@@ -40,6 +40,11 @@ notebooks/   -> analysis notebooks
 - Identified high-revenue and low-profit segments
 - Highlighted areas for potential cost optimization
 
+## Regional Performance Analysis
+- Analyzed sales and profit distribution across regions
+- Identified top-performing and underperforming regions
+- Provided insights to support region-wise business strategy
+
 ## Status
 - Data loaded successfully
 - Initial data inspection completed
