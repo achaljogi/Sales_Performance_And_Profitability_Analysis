@@ -1,14 +1,14 @@
 # Sales Performance and Profitability Analysis
 
 ## Project Overview
-This project analyzes retail sales data to understand sales trends, profitability, and business performance.
+The project analyzes retail sales data to understand sales trends, profitability, and business performance by using python(pandas) for data cleaning, created dataframes by using pandas. Used matplot for visualization.
 
 ## Tools Used
-- Python
+- Python  
 - Pandas
 - NumPy
 - Matplotlib
-- visual studio code
+- visual studio code (did project here)
 
 ## Objectives
 - Analyze sales and profit trends
@@ -47,7 +47,7 @@ notebooks/   -> analysis notebooks
 
 ## Status
 - Data loaded successfully
-- Initial data inspection completed
+- Initial data inspection completed by python 
 - Added project overview, workflow, and datetime feature engineering details
 - Feature engineering: extracted year and month features from order_date
 - Added key business KPIs: sales, profit, orders, and customers
