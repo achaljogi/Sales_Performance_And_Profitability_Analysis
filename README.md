@@ -1,4 +1,4 @@
-End-to-end Data Analytics project analyzing sales performance and profitability using Python, SQL, and visualization techniques. Focused on identifying revenue trends, profit drivers, and loss-making segments to support business decision-making.
+
 
 # Sales Performance and Profitability Analysis
 
@@ -50,6 +50,13 @@ notebooks/   -> analysis notebooks
 - Analyzed sales and profit across customer segments
 - Identified the most profitable customer segment
 - Provided insights to optimize customer targeting strategies
+
+## Key Business Insights & Recommendations
+- Certain sub-categories generate high sales but low or negative profit, indicating discount inefficiencies.
+- Monthly trend analysis shows seasonal patterns that can guide inventory planning.
+- Regional analysis highlights top-performing regions and regions needing strategic improvement.
+- Customer segment analysis reveals the most profitable segment for targeted marketing.
+- Reducing excessive discounts and optimizing regional strategies can significantly improve profitability.
 
 ## Status
 - Downloaded Data from Kaggle
