@@ -53,7 +53,9 @@ notebooks/   -> analysis notebooks
 - Added project overview, workflow, and datetime feature engineering details
 - Feature engineering: extracted year and month features from order_date
 - Added key business KPIs: sales, profit, orders, and customers
-- Added monthly sales visualization by using matplotlib 
+- Added monthly sales visualization by using matplotlib
+- <img width="1386" height="694" alt="image" src="https://github.com/user-attachments/assets/3bcdad09-4f40-42dc-bb51-67792514a64d" />
+
 
 ## Author
 **Achal Jogi**  
