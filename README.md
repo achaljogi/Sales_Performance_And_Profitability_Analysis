@@ -2,7 +2,6 @@
 
 ## Project Overview
 The project analyzes retail sales data to understand sales trends, profitability, and business performance by using python(pandas) for data cleaning, created dataframes by using pandas. Used matplotlib for visualization.
-
 ## Tools Used
 - Python  
 - Pandas
