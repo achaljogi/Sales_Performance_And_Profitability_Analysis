@@ -46,6 +46,8 @@ notebooks/   -> analysis notebooks
 - Provided insights to support region-wise business strategy
 
 ## Status
+- Downloaded Data from Kaggle
+- Created project folder
 - Data loaded successfully
 - Initial data inspection completed by python 
 - Added project overview, workflow, and datetime feature engineering details
