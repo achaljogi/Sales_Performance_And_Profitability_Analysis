@@ -1,3 +1,5 @@
+End-to-end Data Analytics project analyzing sales performance and profitability using Python, SQL, and visualization techniques. Focused on identifying revenue trends, profit drivers, and loss-making segments to support business decision-making.
+
 # Sales Performance and Profitability Analysis
 
 ## Project Overview
