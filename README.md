@@ -46,6 +46,11 @@ notebooks/   -> analysis notebooks
 - Identified top-performing and underperforming regions
 - Provided insights to support region-wise business strategy
 
+## Customer Segment Analysis
+- Analyzed sales and profit across customer segments
+- Identified the most profitable customer segment
+- Provided insights to optimize customer targeting strategies
+
 ## Status
 - Downloaded Data from Kaggle
 - Created project folder
@@ -55,7 +60,7 @@ notebooks/   -> analysis notebooks
 - Feature engineering: extracted year and month features from order_date
 - Added key business KPIs: sales, profit, orders, and customers
 - Added monthly sales visualization by using matplotlib
-- <img width="1386" height="694" alt="image" src="https://github.com/user-attachments/assets/3bcdad09-4f40-42dc-bb51-67792514a64d" />
+  
 
 
 ## Author
