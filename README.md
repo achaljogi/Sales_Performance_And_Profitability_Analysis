@@ -13,7 +13,7 @@ using Python-based data analysis and visualization techniques.
 - NumPy
 - Matplotlib
 - Jupyter Notebook
-- VS Code
+- Visual Studio Code
 - GitHub
 
 ## Dataset
