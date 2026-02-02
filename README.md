@@ -1,11 +1,11 @@
 # Sales Performance and Profitability Analysis
 
 ## Project Overview
-This project analyzes sales performance and profitability using a retail superstore dataset. 
-The goal is to identify key business drivers, profitability trends, and areas for improvement 
+This project analyzes sales performance and profitability using a retail superstore dataset. The goal is to identify key business drivers, profitability trends, and areas for improvement 
 using Python-based data analysis and visualization techniques.
 
 ## Tools & Technologies
+- Excel
 - Python
 - Pandas
 - NumPy
@@ -36,9 +36,6 @@ using Python-based data analysis and visualization techniques.
 ## Conclusion
 This project demonstrates an end-to-end data analytics workflow, transforming raw sales data 
 into actionable business insights that can support strategic decision-making.
-
-  
-
 
 ## Author
 **Achal Jogi**  
