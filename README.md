@@ -3,8 +3,7 @@
 End-to-end Data Analytics project demonstrating real-world business insights using Python.
 
 ## Project Overview
-This project analyzes sales performance and profitability using a retail superstore dataset. The goal is to identify key business drivers, profitability trends, and areas for improvement 
-using Python-based data analysis and visualization techniques.
+This project analyzes sales performance and profitability using a retail superstore dataset. The goal is to identify key business drivers, profitability trends, and areas for improvement using Python-based data analysis and visualization techniques.
 
 ## Tools & Technologies
 - Excel
