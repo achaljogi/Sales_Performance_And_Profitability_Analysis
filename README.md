@@ -41,8 +41,7 @@ into actionable business insights that can support strategic decision-making.
 
 ## Author
 **Achal Jogi**  
-M.Sc. Bioinformatics | Aspiring Data Analyst | Python 
-  
+M.Sc. Bioinformatics | Aspiring Data Analyst | Python | Pandas | Data Analytics 
 
 
 
