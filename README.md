@@ -49,8 +49,6 @@ The objective is to transform raw transactional data into meaningful insights th
 - The **Consumer** segment contributes the highest overall profit.  
 - High discounts negatively impact profit margins across multiple product categories.
 
----
-
 ## ✅ Recommendations
 
 - Optimize discount strategies for low-margin products.  
@@ -58,21 +56,15 @@ The objective is to transform raw transactional data into meaningful insights th
 - Prioritize high-performing regions and profitable customer segments.  
 - Reduce excessive discounting on consistently unprofitable sub-categories.
 
----
-
 ## 🧠 Conclusion
 
 This project demonstrates a complete **data analytics workflow**, from raw data preprocessing to insight generation and business recommendations. It highlights the practical application of Python-based data analysis in solving real-world business problems.
-
----
 
 ## 🚀 Future Enhancements
 
 - Create an interactive dashboard using **Power BI** or **Tableau**  
 - Automate reporting using Python scripts  
 - Apply predictive analytics for sales forecasting  
-
----
 
 ## 👤 Author
 
@@ -81,8 +73,6 @@ M.Sc. Bioinformatics | Aspiring Data Analyst
 
 **Skills:**  
 Python, Pandas, SQL, Excel, Data Visualization  
-
----
 
 ⭐ If you find this project useful, feel free to star the repository!
 
