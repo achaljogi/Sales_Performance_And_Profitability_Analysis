@@ -2,8 +2,6 @@
 
 An end-to-end **Data Analytics project** that analyzes retail sales data to uncover profitability trends, key business drivers, and actionable insights using **Python**.
 
----
-
 ## 🔍 Project Overview
 
 This project focuses on analyzing sales performance and profitability using a retail superstore dataset.  
