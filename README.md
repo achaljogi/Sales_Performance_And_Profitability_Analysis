@@ -30,8 +30,6 @@ The objective is to transform raw transactional data into meaningful insights th
   - Profit  
   - Discounts  
 
----
-
 ## 📈 Analysis Performed
 
 - Data cleaning and preprocessing  
@@ -42,8 +40,6 @@ The objective is to transform raw transactional data into meaningful insights th
 - Regional sales and profitability comparison  
 - Customer segment profitability analysis  
 - Discount impact analysis on profit margins  
-
----
 
 ## 💡 Key Business Insights
 
