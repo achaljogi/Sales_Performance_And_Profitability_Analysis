@@ -7,8 +7,6 @@ An end-to-end **Data Analytics project** that analyzes retail sales data to unco
 This project focuses on analyzing sales performance and profitability using a retail superstore dataset.  
 The objective is to transform raw transactional data into meaningful insights that can help businesses improve decision-making, optimize discount strategies, and enhance overall profitability.
 
----
-
 ## 🛠️ Tools & Technologies
 
 - Excel  
