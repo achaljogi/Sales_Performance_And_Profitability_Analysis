@@ -18,8 +18,6 @@ The objective is to transform raw transactional data into meaningful insights th
 - Visual Studio Code  
 - GitHub  
 
----
-
 ## 📁 Dataset
 
 - **Retail Superstore Dataset**
