@@ -1,6 +1,6 @@
 # 📊 Sales Performance and Profitability Analysis
 
-An end-to-end **Data Analytics project** that analyzes retail sales data to uncover profitability trends, key business drivers, and actionable insights using **Python**.
+An end-to-end Data Analytics Project that analyzes retail sales data to uncover profitability trends, key business drivers, and actionable insights using **Python**.
 
 ## 🔍 Project Overview
 
