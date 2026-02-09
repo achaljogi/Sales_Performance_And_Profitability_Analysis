@@ -28,7 +28,7 @@ The objective is to transform raw transactional data into meaningful insights th
   - Regions  
   - Sales  
   - Profit  
-  - Discounts  
+  - Discounts 
 
 ## 📈 Analysis Performed
 
